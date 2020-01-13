@@ -1,0 +1,7 @@
+data/com.hack_computer.gst-test.desktop.in
+data/com.hack_computer.gst-test.appdata.xml.in
+data/com.hack_computer.gst-test.gschema.xml
+src/window.ui
+src/main.js
+src/window.js
+

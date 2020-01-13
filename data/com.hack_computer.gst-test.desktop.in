@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=gst-test
+Exec=com.hack_computer.gst-test
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

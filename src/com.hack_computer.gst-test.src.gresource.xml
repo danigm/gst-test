@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/com/hack_computer/gst-test/js">
+    <file>main.js</file>
+    <file>playbin.js</file>
+    <file>window.js</file>
+  </gresource>
+</gresources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/com/hack_computer/gst-test">
+    <file>window.ui</file>
+    <file>open.webm</file>
+    <file>background.jpg</file>
+  </gresource>
+</gresources>
