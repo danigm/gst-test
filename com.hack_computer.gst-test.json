@@ -32,8 +32,8 @@
             "buildsystem": "meson",
             "sources": [
                 {
-                    "type": "git",
-                    "url": "file:///sysroot/home/danigm/Projects/work/endless/gst-test"
+                    "type": "dir",
+                    "path": "."
                 }
             ]
         }

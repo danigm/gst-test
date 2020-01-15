@@ -40,7 +40,7 @@ var GstTestWindow = GObject.registerClass({
         try {
             this._css_provider.load_from_data(`
 window {
-    background: url('resource:///com/hack_computer/gst-test/background.jpg') no-repeat center/cover;
+    background: transparent;
     transition: background 1s ease;
 }`
             );
